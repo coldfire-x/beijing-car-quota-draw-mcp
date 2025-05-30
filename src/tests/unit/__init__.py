@@ -1,0 +1,1 @@
+"""Unit tests for the Beijing Car Quota Lottery MCP Server.""" 
